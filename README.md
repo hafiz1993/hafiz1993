@@ -34,7 +34,7 @@
 <br />
 <br />
 
-![Md. Hafizur Rahaman's github stats](https://github-readme-stats.vercel.app/api?username=hafiz1993&show_icons=true&theme=radical)
+<img width="550" alt="Md. Hafizur Rahaman Github Stats"  src="https://github-readme-stats.vercel.app/api?username=hafiz1993&show_icons=true"/>
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=hafiz1993&card_width=550)](https://github.com/manik-roy/manik-roy)
 
