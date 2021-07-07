@@ -1,7 +1,7 @@
 ### Hi there, I'm Md. Hafizur Rahaman -  [Hafiz](https://hafiz-me.netlify.app) 👋
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
-- 🌱 I’m currently learning React Js, node Js, mongoDB, React Native 🤣
+- 🌱 I’m currently learning React Js, node Js, mongoDB 🤣
 - 🥅 2021 Goals: Learn React,Vue, Node, 
 - ⚡ Fun fact: I love to see movie and play cricket 
 
