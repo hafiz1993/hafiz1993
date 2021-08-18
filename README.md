@@ -39,12 +39,11 @@
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=hafiz1993&card_width=550)](https://github.com/hafiz1993/hafiz1993)
 
 [programming]: https://www.programming-hero.com/
-[website]: https://manikroy.netlify.app/
-[twitter]: https://manikroy.netlify.app/
-[youtube]:  https://manikroy.netlify.app/
-[instagram]: https://www.instagram.com/manikroy_89/
-[linkedin]: https://www.linkedin.com/in/manik-roy
-[webdevplaylist]: https://manikroy.netlify.app/
-[jsplaylist]: https://manikroy.netlify.app/
-[cssplaylist]: https://manikroy.netlify.app/
-[reactplaylist]: https://manikroy.netlify.app/
+[website]: https://hafiz-me.netlify.app/
+[twitter]: https://hafiz-me.netlify.app/
+[youtube]:  https://hafiz-me.netlify.app/
+[linkedin]: https://www.linkedin.com/in/hafizur-rahaman-1903a8187/
+[webdevplaylist]: https://hafiz-me.netlify.app/
+[jsplaylist]: https://hafiz-me.netlify.app/
+[cssplaylist]: https://hafiz-me.netlify.app/
+[reactplaylist]: https://hafiz-me.netlify.app/
